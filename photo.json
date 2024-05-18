@@ -1,0 +1,14 @@
+{
+  "images": [
+    {
+      "name": "Example Image 1",
+      "url": "https://raw.githubusercontent.com/guyang103/poottry1/main/images/p1.png",
+      "description": "This is an example image 1."
+    },
+    {
+      "name": "Example Image 2",
+      "url": "https://raw.githubusercontent.com/guyang103/poottry/main/images/p2.png",
+      "description": "This is an example image 2."
+    }
+  ]
+}
